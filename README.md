@@ -9,7 +9,7 @@
 * Setting up Nginx
 * Obtaining an SSL certificate with Certbot
 
-Finally, configure your server to manage DNS requests. Below is a simplified guide based on the information you've provided:
+Finally, configure your server to manage DNS requests. Below is a simplified guide :
 
 **Step 1: Acquire a Server**
 
