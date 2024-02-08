@@ -84,7 +84,5 @@ Following these steps will help you set up a DNS server capable of redirecting a
 
 https://twitter.com/uo0sef/status/1726668570447532352
 
-**Note**
 
-This guide is a simplified summary. Depending on your specific requirements and configurations, additional steps or modifications might be necessary. Always refer to the official documentation for the services and software you are using for the most accurate and secure setup procedures.
 ```
