@@ -81,6 +81,9 @@ Background Execution: Use tmux or a similar tool to run your application in the 
 
 Following these steps will help you set up a DNS server capable of redirecting and managing web traffic as per your custom configurations. Remember, managing a DNS server requires ongoing maintenance and security practices to protect against vulnerabilities and ensure your server remains reliable for users.
 
+
+https://twitter.com/uo0sef/status/1726668570447532352
+
 **Note**
 
 This guide is a simplified summary. Depending on your specific requirements and configurations, additional steps or modifications might be necessary. Always refer to the official documentation for the services and software you are using for the most accurate and secure setup procedures.
