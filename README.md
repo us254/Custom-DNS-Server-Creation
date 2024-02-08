@@ -79,7 +79,7 @@ Background Execution: Use tmux or a similar tool to run your application in the 
 
 **Conclusion**
 
-Following these steps will help you set up a DNS server capable of redirecting and managing web traffic as per your custom configurations. Remember, managing a DNS server requires ongoing maintenance and security practices to protect against vulnerabilities and ensure your server remains reliable for users.
+Following these steps will help you set up a DNS server capable of redirecting and managing web traffic as per your custom configurations. 
 
 
 https://twitter.com/uo0sef/status/1726668570447532352
